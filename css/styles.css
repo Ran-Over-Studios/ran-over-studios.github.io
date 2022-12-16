@@ -1,0 +1,25 @@
+body {
+    background-color: #333;
+    font-family: Nunito;
+}
+
+main{
+    background-color: #222;
+    min-height: 80vh;
+}
+
+main h1{
+    text-align:center;
+    color: white;
+}
+
+main p{
+    text-align:center;
+    color: white;
+    font-size: x-large;
+}
+
+body h1 {
+    text-align:center;
+    color: white;
+}
