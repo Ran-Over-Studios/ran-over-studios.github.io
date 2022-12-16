@@ -1,0 +1,9 @@
+body {
+    font-family: Nunito;
+}
+
+h1 {
+    text-align:center;
+    color: rgb(76, 115, 141);
+    padding-top: 20px;
+}
